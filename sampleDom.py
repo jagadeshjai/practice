@@ -1,5 +1,5 @@
 from xml.dom import minidom
-import ast
+import json
 dom = minidom.parse("components_chromium_strings.grd")
 
 #Get the text values from the given node and its child nodes
@@ -27,6 +27,6 @@ textFile.close()
 #Get the file content from text file as dict
 
 textFile = open("changes.json","r")
-fileContent = ast.literal_eval(textFile.read())
+fileContent = json.loads(textFile.read())
 print(fileContent)
 textFile.close()
