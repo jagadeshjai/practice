@@ -2,4 +2,9 @@ print("smaple program to print practice")
 """
 Below code to add some extra line
 """
-print("Exra line added 1")
+
+"""
+Now again adding some content to this
+"""
+
+print("some new content in practice and deleting previous extra 1")
