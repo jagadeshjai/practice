@@ -1,1 +1,17 @@
 {
+"IDS_ERRORPAGES_SUGGESTION_NETWORK_PREDICTION_BODY" : "          Go to          the Chromium menu >                    >                    and deselect .          If this does not resolve the issue, we recommend selecting this option          again for improved performance.        ",
+"IDS_ERRORPAGES_SUGGESTION_FIREWALL_CONFIG_HEADER" : "          Allow Chromium to access the network in your firewall or antivirus          settings.        ",
+"IDS_ERRORPAGES_SUMMARY_BLOCKED_ENROLLMENT_CHECK_PENDING" : "        Chromium OS hasn’t completed its initial setup.      ",
+"IDS_ERRORPAGES_SUGGESTION_PROXY_DISABLE_PLATFORM" : "          Go to          Applications > System Preferences > Network > Advanced > Proxies          and deselect any proxies that have been selected.        ",
+"IDS_ERRORPAGES_SUGGESTION_PROXY_DISABLE_PLATFORM" : "          Go to          the Chromium menu >                    >                    >                    and make sure your configuration is set to no proxy or direct.        ",
+"IDS_ERRORPAGES_SUGGESTION_PROXY_DISABLE_PLATFORM" : "          Go to          the Chromium menu >                    >                    >                    >          LAN Settings          and deselect the Use a proxy server for your LAN checkbox.        ",
+"IDS_FLAGS_UI_RELAUNCH_NOTICE" : "          Your changes will take effect the next time you relaunch Chromium.        ",
+"IDS_FLAGS_UI_RELAUNCH_NOTICE" : "          Your changes will take effect the next time you restart your device.        ",
+"IDS_DEPRECATED_FEATURES_RELAUNCH_NOTICE" : "          Your changes will take effect the next time you relaunch Chromium.        ",
+"IDS_DEPRECATED_FEATURES_RELAUNCH_NOTICE" : "          Your changes will take effect the next time you restart your device.        ",
+"IDS_CRASH_DISABLED_MESSAGE" : "        Crash reporting is not available in Chromium.      ",
+"IDS_VERSION_UI_LICENSE" : "        Chromium is made possible by the Chromium open source project and other open source software.      ",
+"IDS_PAGE_INFO_INTERNAL_PAGE" : "        You're viewing a secure Chromium page      ",
+"IDS_PAGE_INFO_SECURE_IDENTITY_VERIFIED" : "        Chromium verified that  issued this website's certificate.      ",
+"IDS_SESSION_CRASHED_VIEW_MESSAGE" : "        Chromium didn't shut down correctly.      "
+}
