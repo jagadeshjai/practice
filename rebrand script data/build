@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#python3 chromiumToPrimeum.py
+export PATH="$PATH:/home/local/ZOHOCORP/jagadesh-pt3639/chromium/depot_tools"
+
+cd src
+
+gn gen out/Default
+autoninja -C out/Default chrome
+

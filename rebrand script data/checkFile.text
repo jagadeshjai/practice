@@ -1,0 +1,67 @@
+
+
+
+
+
+
+
+
+
+
+<if expr="not chromeos and is_posix and not is_macosx and not is_android and not is_ios">
+        <message desc="Linux instructions for disabling use of a proxy server." name="IDS_ERRORPAGES_SUGGESTION_PROXY_DISABLE_PLATFORM">
+          Go to
+          the Chromium menu &gt;
+          <ph name="SETTINGS_TITLE">&lt;span jscontent="settingsTitle"&gt;&lt;/span&gt;<ex>Settings</ex></ph>
+          &gt;
+          <ph name="ADVANCED_TITLE">&lt;span jscontent="advancedTitle"&gt;&lt;/span&gt;<ex>Under the Hood</ex></ph>
+          &gt;
+          <ph name="PROXIES_TITLE">&lt;span jscontent="proxyTitle"&gt;&lt;/span&gt;<ex>Change proxy settings...</ex></ph>
+          and make sure your configuration is set to "no proxy" or "direct."
+        </message>
+      </if>
+      
+
+
+
+
+
+
+
+
+
+<if expr="not chromeos and is_posix and not is_macosx and not is_android and not is_ios">
+        <message desc="Linux instructions for disabling use of a proxy server." name="IDS_ERRORPAGES_SUGGESTION_PROXY_DISABLE_PLATFORM">
+          Go to
+          the Chromium menu &gt;
+          <ph name="SETTINGS_TITLE">&lt;span jscontent="settingsTitle"&gt;&lt;/span&gt;<ex>Settings</ex></ph>
+          &gt;
+          <ph name="ADVANCED_TITLE">&lt;span jscontent="advancedTitle"&gt;&lt;/span&gt;<ex>Under the Hood</ex></ph>
+          &gt;
+          <ph name="PROXIES_TITLE">&lt;span jscontent="proxyTitle"&gt;&lt;/span&gt;<ex>Change proxy settings...</ex></ph>
+          and make sure your configuration is set to "no proxy" or "direct."
+        </message>
+      </if>
+      
+
+
+
+
+
+
+
+
+
+<if expr="not chromeos and is_posix and not is_macosx and not is_android and not is_ios">
+        <message desc="Linux instructions for disabling use of a proxy server." name="IDS_ERRORPAGES_SUGGESTION_PROXY_DISABLE_PLATFORM">
+          Go to
+          the Chromium menu &gt;
+          <ph name="SETTINGS_TITLE">&lt;span jscontent="settingsTitle"&gt;&lt;/span&gt;<ex>Settings</ex></ph>
+          &gt;
+          <ph name="ADVANCED_TITLE">&lt;span jscontent="advancedTitle"&gt;&lt;/span&gt;<ex>Under the Hood</ex></ph>
+          &gt;
+          <ph name="PROXIES_TITLE">&lt;span jscontent="proxyTitle"&gt;&lt;/span&gt;<ex>Change proxy settings...</ex></ph>
+          and make sure your configuration is set to "no proxy" or "direct."
+        </message>
+      </if>
+      
